@@ -1,0 +1,16 @@
+body{
+text-align: center;
+color: forestgreen; 
+background-image: url(images/FAQImg.jpg);
+background-size: cover;
+}
+h1{
+font-size: 38px;
+ 
+    color: aliceblue;
+}
+.question, .answer{
+font-size: 21px;
+   
+color: aliceblue;
+}
